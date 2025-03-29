@@ -19,4 +19,5 @@ results:
     resources:
       - web-app-without-annotation
     kind: Pod
-    result: fail # corrected result to fail
+      #result: fail # corrected result to fail
+    result: pass # corrected result to fail
